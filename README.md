@@ -34,9 +34,13 @@ This project is a Python-based tool for network scanning using Nmap. It is desig
 6. Choose a scan (-sV or --script vuln)
 7. View the saved results (stored in results/, logs/, charts/)
 
+# Testing Environment
+This tool was test on the following environment:
+- **Metasploitable**: A vulnerable virtual machine designed for educational and testing purposes.
+- Hosted in a local VirtualBox setup isolated from external networks.
+
 # Disclaimer
-This tool is intended for **educational purposes** and should **ONLY** be used on owned networks. Unauthorized use of this tool
-on networks could result in the violation of local laws and regulations.
+This tool is intended for **educational purposes** and should **ONLY** be used on owned networks. Unauthorized use of this tool on networks could result in the violation of local laws and regulations.
 
 # Future Enhancements
 1. Improved visualization in regards to charts
