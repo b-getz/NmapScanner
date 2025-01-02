@@ -1,0 +1,25 @@
+Scan results for 192.168.56.103:
+host;hostname;hostname_type;protocol;port;name;state;product;extrainfo;reason;version;conf;cpe
+192.168.56.103;;;tcp;21;ftp;open;vsftpd;;syn-ack;2.3.4;10;cpe:/a:vsftpd:vsftpd:2.3.4
+192.168.56.103;;;tcp;22;ssh;open;OpenSSH;protocol 2.0;syn-ack;4.7p1 Debian 8ubuntu1;10;cpe:/o:linux:linux_kernel
+192.168.56.103;;;tcp;23;telnet;open;Linux telnetd;;syn-ack;;10;cpe:/o:linux:linux_kernel
+192.168.56.103;;;tcp;25;smtp;open;Postfix smtpd;;syn-ack;;10;cpe:/a:postfix:postfix
+192.168.56.103;;;tcp;53;domain;open;ISC BIND;;syn-ack;9.4.2;10;cpe:/a:isc:bind:9.4.2
+192.168.56.103;;;tcp;80;http;open;Apache httpd;(Ubuntu) DAV/2;syn-ack;2.2.8;10;cpe:/a:apache:http_server:2.2.8
+192.168.56.103;;;tcp;111;rpcbind;open;;RPC #100000;syn-ack;2;10;
+192.168.56.103;;;tcp;139;netbios-ssn;open;Samba smbd;workgroup: WORKGROUP;syn-ack;3.X - 4.X;10;cpe:/a:samba:samba
+192.168.56.103;;;tcp;445;netbios-ssn;open;Samba smbd;workgroup: WORKGROUP;syn-ack;3.X - 4.X;10;cpe:/a:samba:samba
+192.168.56.103;;;tcp;512;exec;open;netkit-rsh rexecd;;syn-ack;;10;cpe:/o:linux:linux_kernel
+192.168.56.103;;;tcp;513;login;open;;;syn-ack;;10;
+192.168.56.103;;;tcp;514;shell;open;Netkit rshd;;syn-ack;;10;cpe:/a:netkit:netkit_rsh
+192.168.56.103;;;tcp;1099;java-rmi;open;GNU Classpath grmiregistry;;syn-ack;;10;
+192.168.56.103;;;tcp;1524;bindshell;open;Metasploitable root shell;;syn-ack;;10;
+192.168.56.103;;;tcp;2049;nfs;open;;RPC #100003;syn-ack;2-4;10;
+192.168.56.103;;;tcp;2121;ftp;open;ProFTPD;;syn-ack;1.3.1;10;cpe:/a:proftpd:proftpd:1.3.1
+192.168.56.103;;;tcp;3306;mysql;open;MySQL;;syn-ack;5.0.51a-3ubuntu5;10;cpe:/a:mysql:mysql:5.0.51a-3ubuntu5
+192.168.56.103;;;tcp;5432;postgresql;open;PostgreSQL DB;;syn-ack;8.3.0 - 8.3.7;10;cpe:/a:postgresql:postgresql:8.3
+192.168.56.103;;;tcp;5900;vnc;open;VNC;protocol 3.3;syn-ack;;10;
+192.168.56.103;;;tcp;6000;X11;open;;access denied;syn-ack;;10;
+192.168.56.103;;;tcp;6667;irc;open;UnrealIRCd;;syn-ack;;10;cpe:/a:unrealircd:unrealircd
+192.168.56.103;;;tcp;8009;ajp13;open;Apache Jserv;Protocol v1.3;syn-ack;;10;
+192.168.56.103;;;tcp;8180;http;open;Apache Tomcat/Coyote JSP engine;;syn-ack;1.1;10;cpe:/a:apache:coyote_http_connector:1.1

@@ -1,0 +1,17 @@
+2025-01-01 22:27:45,395 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:27:56,992 - INFO - Scan complete. Results saved to nmap_scan_results_{datetime.now()strftime('%Y%m%d_%H%M%S')}.txt.
+2025-01-01 22:30:18,540 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:30:30,514 - INFO - Scan complete. Results saved to nmap_scan_results_20250101_223030.txt.
+2025-01-01 22:45:54,414 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:46:05,994 - ERROR - An error ocured during the scan: name 'plt' is not defined
+2025-01-01 22:48:48,895 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:49:00,577 - ERROR - An error ocured during the scan: name 'char_file' is not defined
+2025-01-01 22:50:36,613 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:50:48,219 - INFO - Visualization saved as nmap_scan_results_20250101_225048.png.
+2025-01-01 22:50:48,219 - INFO - Scan complete. Results saved to nmap_scan_results_20250101_225048.txt.
+2025-01-01 22:55:10,353 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:55:22,081 - INFO - Visualization saved as nmap_scan_results_20250101_225522.png.
+2025-01-01 22:55:22,082 - INFO - Scan complete. Results saved to nmap_scan_results_20250101_225522.txt.
+2025-01-01 22:58:37,467 - INFO - Started scan on target 192.168.56.103 with arguments '-sV'
+2025-01-01 22:58:49,140 - INFO - Visualization saved as nmap_scan_results_20250101_225849.png.
+2025-01-01 22:58:49,141 - INFO - Scan complete. Results saved to nmap_scan_results_20250101_225849.txt.
